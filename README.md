@@ -43,12 +43,11 @@ I enjoy solving real-world business problems through data analysis and building 
 
 # 📂 Featured Projects
 
-| Project                           | Description                                                                                   | Technologies                          | Repository                   |
-| --------------------------------- | --------------------------------------------------------------------------------------------- | ------------------------------------- | ---------------------------- |
-| ⚡ Electric Vehicle Sales Analysis | End-to-end analysis of EV adoption trends with dashboards and business insights.              | Excel, SQL, Python, Power BI, Tableau | **https://github.com/chiranjit-githhub/Electric-Vehicle-Data-Analysis** |
-| 🛒 Retail Sales Analysis          | Sales performance analysis using SQL, Python, Excel, and Power BI.                            | SQL, Python, Excel, Power BI          | **https://github.com/chiranjit-githhub/Retail-Sales-Analysis-using-Python-Excel-and-SQL** |
-
-
+| Project | Description | Technologies | Repository |
+|---------|-------------|-------------|------------|
+| ⚡ **Electric Vehicle Sales Analysis** | End-to-end analysis of EV adoption trends with interactive dashboards and business insights. | Excel, SQL, Python, Power BI, Tableau | [View Repository](https://github.com/chiranjit-githhub/Electric-Vehicle-Data-Analysis) |
+| 🛒 **Retail Sales Analysis** | Analyzed retail sales data to identify revenue trends, customer behavior, and business performance using SQL, Python, and Excel. | SQL, Python, Excel, Power BI | [View Repository](https://github.com/chiranjit-githhub/Retail-Sales-Analysis-using-Python-Excel-and-SQL) |
+| 🛍️ **Blinkit Sales Data Analysis** | Performed end-to-end analysis of Blinkit grocery sales data, including data cleaning, SQL analysis, KPI reporting, and an interactive Excel dashboard to uncover sales trends and business insights. | Python, MySQL, Excel | [View Repository](https://github.com/chiranjit-githhub/Blinkit-Data-Analysis) |
 ---
 
 # 📈 What You'll Find
