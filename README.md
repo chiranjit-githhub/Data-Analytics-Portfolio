@@ -39,6 +39,9 @@ I enjoy solving real-world business problems through data analysis and building 
 | Version Control         | Git, GitHub       |
 
 ---
+## Resume 
+https://docs.google.com/document/d/1HHX4zoomptdoxqnG9PR2SF0vWq9uta3G/edit?usp=sharing&ouid=103449028466013981636&rtpof=true&sd=true
+
 ## 🚀 Tech Stack
 
 <p align="center">
