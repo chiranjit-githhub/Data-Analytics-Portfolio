@@ -59,12 +59,12 @@ https://docs.google.com/document/d/1HHX4zoomptdoxqnG9PR2SF0vWq9uta3G/edit?usp=sh
 
 # 📂 Featured Projects
 
-| Project | Description | Technologies | Repository |
-|---------|-------------|-------------|------------|
-| ⚡ **Electric Vehicle Sales Analysis** | End-to-end analysis of EV adoption trends with interactive dashboards and business insights. | Excel, SQL, Python, Power BI, Tableau | [View Repository](https://github.com/chiranjit-githhub/Electric-Vehicle-Data-Analysis) |
-| 🛒 **Retail Sales Analysis** | Analyzed retail sales data to identify revenue trends, customer behavior, and business performance using SQL, Python, and Excel. | SQL, Python, Excel, Power BI | [View Repository](https://github.com/chiranjit-githhub/Retail-Sales-Analysis-using-Python-Excel-and-SQL) |
-| 🛍️ **Blinkit Sales Data Analysis** | Performed end-to-end analysis of Blinkit grocery sales data, including data cleaning, SQL analysis, KPI reporting, and an interactive Excel dashboard to uncover sales trends and business insights. | Python, MySQL, Excel | [View Repository](https://github.com/chiranjit-githhub/Blinkit-Data-Analysis) |
----
+| Project                               | Description                                                                                                                                                                                          | Technologies                          | Repository                                                                                               |
+| ------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------- | -------------------------------------------------------------------------------------------------------- |
+| ⚡ **Electric Vehicle Sales Analysis** | End-to-end analysis of EV adoption trends with interactive dashboards and business insights.                                                                                                         | Excel, SQL, Python, Power BI, Tableau | [View Repository](https://github.com/chiranjit-githhub/Electric-Vehicle-Data-Analysis)                   |
+| 🛒 **Retail Sales Analysis**          | Analyzed retail sales data to identify revenue trends, customer behavior, and business performance using SQL, Python, and Excel.                                                                     | SQL, Python, Excel, Power BI          | [View Repository](https://github.com/chiranjit-githhub/Retail-Sales-Analysis-using-Python-Excel-and-SQL) |
+| 🛍️ **Blinkit Sales Data Analysis**   | Performed end-to-end analysis of Blinkit grocery sales data, including data cleaning, SQL analysis, KPI reporting, and an interactive Excel dashboard to uncover sales trends and business insights. | Python, MySQL, Excel                  | [View Repository](https://github.com/chiranjit-githhub/Blinkit-Data-Analysis)                            |
+| 👥 **HR Analytics Dashboard**         | Built an interactive HR analytics dashboard to analyze employee attrition, workforce demographics, job satisfaction, and performance metrics, providing actionable insights for HR decision-making.  | Tableau                               | [View Repository](https://github.com/chiranjit-githhub/Human-Resource-Analytics)                           |
 
 # 📈 What You'll Find
 
